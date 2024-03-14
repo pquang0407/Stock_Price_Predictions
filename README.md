@@ -1,5 +1,4 @@
 # Stock_Price_Predictions
-# Stock_Price_Predictions
 This repository contains code and models for predicting stock prices. The goal is to forecast future stock prices based on historical data and relevant features. Below are the key components of this project:
   Stock price predictions from files in datasets: "FPT.csv", "MSN.csv", "PNJ.csv", "VIC.csv"
 **Dataset**
